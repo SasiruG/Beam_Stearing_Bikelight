@@ -2,7 +2,7 @@
 
 Description
 ===========
-An Arduino code that control a bike light intensity depending on the angle of the bike steering wheel.
+An Arduino code that controls a bike light intensity depending on the angle of the bike steering wheel.
 
 License
 =======
