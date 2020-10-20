@@ -1,5 +1,9 @@
 # Adaptable-Bike-Lights
 
+Description
+===========
+An Arduino code that control a bike light intensity depending on the angle of the bike steering wheel.
+
 License
 =======
 Licensed by [MIT license](LICENSE)
